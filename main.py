@@ -10,6 +10,7 @@ class MainHandler(webapp.RequestHandler):
     def get(self):
         ip = 'my IP address: ' + self.request.remote_addr
         self.response.out.write(ip)
+        self.response.out.write('\n')
 
 
 
