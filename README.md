@@ -1,4 +1,6 @@
 theipv4
 =======
 
-small Google App Engine webapp for getting your ip v4 address.
+Small webapp that gets your ip v4 address.
+
+It runs on Google App Engine http://theipv4.appspot.com
